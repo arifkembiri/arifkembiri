@@ -46,9 +46,6 @@ span a {
   text-decoration: none;
   margin: 0 10px;
   transition: all 0.4s ease-in-out;
-  display: flex;
-        flex-direction: column;
-    
 }
 span a:hover {
   color: #ffffff;
@@ -111,6 +108,10 @@ span a:hover {
   width: 100%;
   height: auto;
 }
+.social-links {
+        display: flex;
+        flex-direction: column;
+    }
 
 .content {
   width: 100%;
