@@ -48,7 +48,7 @@ span a {
   transition: all 0.4s ease-in-out;
   display: flex;
         flex-direction: column;
-    }
+    
 }
 span a:hover {
   color: #ffffff;
